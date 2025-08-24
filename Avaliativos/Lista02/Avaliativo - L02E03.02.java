@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class GeradorSenha {
+class GeradorSenha {
     public static void main(String[] args) {
         char[] listaCaracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".toCharArray();
 

@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class GeradorJogador {
+class GeradorJogador {
     public static void main(String[] args) {
         //listas solicitadas
         String[] nomes = {"Cássio", "Vinícius", "Gabriel", "Thiago", "Lucas", "Pedro", "Rafael", "André", "Felipe", "Bruno"};
