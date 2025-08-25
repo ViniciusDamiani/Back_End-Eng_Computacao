@@ -1,3 +1,4 @@
+package Avaliativos.Lista03;
 
 class Jogador {
     private String nome, sobrenome, posicao, time;

@@ -1,6 +1,5 @@
 package Avaliativos.Lista04;
 
-
 class FaturaTeste {
     public static void main(String[] args) {
         // Criando objetos Fatura

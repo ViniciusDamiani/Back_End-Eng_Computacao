@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-
+ 
 class GeradorPokemon {
     public static void main(String[] args) {
         //listas de nomes e tipos

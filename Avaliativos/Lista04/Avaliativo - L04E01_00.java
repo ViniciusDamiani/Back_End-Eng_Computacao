@@ -34,7 +34,7 @@ class Fatura {
     public int getQuantidade() {
         return quantidade;
     }
-
+ 
     public void setQuantidade(int quantidade) {
         if (quantidade < 0) {
             this.quantidade = 0;

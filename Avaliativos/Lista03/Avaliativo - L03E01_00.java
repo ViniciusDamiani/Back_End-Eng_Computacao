@@ -1,4 +1,5 @@
-
+package Avaliativos.Lista03;
+ 
 import java.util.Random;
 
 class GeradorJogador {
